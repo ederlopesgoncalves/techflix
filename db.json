@@ -1,0 +1,199 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Filipe Deschamps",
+      "cor": "#3333ff"
+    },
+    {
+      "id": 2,
+      "titulo": "Programador BR",
+      "cor": "#8080ff"
+    },
+    {
+      "id": 3,
+      "titulo": "Código Fonte",
+      "cor": "#1B9A96"
+    },
+    {
+      "id": 4,
+      "titulo": "Rocketseat",
+      "cor": "#7159c1"
+    },
+    {
+      "id": 5,
+      "titulo": "Cod3r",
+      "cor": "#FF0404"
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "Hello Techers! Procurando tecnologia aqui é o seu lugar...",
+      "url": "https://www.youtube.com/watch?v=k7IPr-rhrPE"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
+      "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "Um júnior já deveria saber como reduzir a quantidade de IFs de um código (e você, sabe?)",
+      "url": "https://www.youtube.com/watch?v=Lf3ZV0UsnEo&t=693s"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "3 Técnicas Que Eu Uso Para Aprender a Programar Qualquer Coisa (mesmo sem ter o dom da programação)",
+      "url": "https://www.youtube.com/watch?v=ZtMzB5CoekE"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "Os 3 Livros Que Fizeram Eu Não Desistir da Programação (e o que aprendi com eles)",
+      "url": "https://www.youtube.com/watch?v=Uh0Kn2aXEqY"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "Programadores Altamente Eficazes: 7 Hábitos",
+      "url": "https://www.youtube.com/watch?v=cJx0k_ln1-g"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "Os 4 hábitos que tornam você um programador ineficiente",
+      "url": "https://www.youtube.com/watch?v=H6TVXfb0BTw&t=440s"
+    },
+    {
+      "id": 8,
+      "categoriaId": 1,
+      "titulo": "MINHA OPINIÃO: Qual a melhor linguagem para começar a programar?",
+      "url": "https://www.youtube.com/watch?v=2_FJrmft3uQ"
+    },
+    {
+      "id": 9,
+      "categoriaId": 1,
+      "titulo": "Programar Mais Rápido e Ser Mais Produtivo no Visual Studio Code (VSCode)",
+      "url": "https://www.youtube.com/watch?v=FCC2GbStmfc"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "React vs React Native - Qual a diferença?",
+      "url": "https://www.youtube.com/watch?v=9F6KARtsH_E&list=PLVzrOYTg7zYD__qifpofsQDhHVHEvSx_h&index=6&t=0s"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "REACT NATIVE - CRIANDO UM APP DO ZERO",
+      "url": "https://www.youtube.com/watch?v=RdcguVta_bs&list=PLVzrOYTg7zYD__qifpofsQDhHVHEvSx_h&index=4&t=931s"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "REACT NATIVE - CRIANDO UM APP DO ZERO",
+      "url": "https://www.youtube.com/watch?v=RdcguVta_bs&list=PLVzrOYTg7zYD__qifpofsQDhHVHEvSx_h&index=4&t=931s"
+    },
+    {
+      "id": 13,
+      "categoriaId": 2,
+      "titulo": "CRIANDO UM PROJETO EM REACT NATIVE, USANDO O EXPO",
+      "url": "https://www.youtube.com/watch?v=bTfaLDDLCqQ&list=PLVzrOYTg7zYD__qifpofsQDhHVHEvSx_h&index=8&t=0s"
+    },
+    {
+      "id": 14,
+      "categoriaId": 2,
+      "titulo": "REACT NATIVE - CRIANDO UMA LISTA DE TAREFAS",
+      "url": "https://www.youtube.com/watch?v=Dx8DEDVqa7s&list=PLVzrOYTg7zYD__qifpofsQDhHVHEvSx_h&index=3&t=0s"
+    },
+    {
+      "id": 15,
+      "categoriaId": 2,
+      "titulo": "REACT NATIVE DO ZERO AO PROFISSIONAL",
+      "url": "https://www.youtube.com/watch?v=vIKDWU9_K8U&list=PLVzrOYTg7zYD__qifpofsQDhHVHEvSx_h&index=5&t=0s"
+    },
+    {
+      "id": 16,
+      "categoriaId": 3,
+      "titulo": "SUCESSO PROFISSIONAL: Como Fazer Networking com Programadores em 2020?",
+      "url": "https://www.youtube.com/watch?v=2GxpbfTLjKg"
+    },
+    {
+      "id": 17,
+      "categoriaId": 3,
+      "titulo": "AS EMPRESAS PRECISAM DE PROFISSIONAIS COM ESSE PERFIL (Veja como Chegar Lá)",
+      "url": "https://www.youtube.com/watch?v=HdHqL8jGSxs"
+    },
+    {
+      "id": 18,
+      "categoriaId": 3,
+      "titulo": "As TOP 7 Profissões de Tecnologia do Futuro (O PROGRAMADOR VAI ACABAR?)",
+      "url": "https://www.youtube.com/watch?v=Xzt7GbQIQTk"
+    },
+    {
+      "id": 19,
+      "categoriaId": 3,
+      "titulo": "As 9 mentirinhas que todo programador conta",
+      "url": "https://www.youtube.com/watch?v=R7e1lnOY_QU"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "titulo": "Micro Frontends, Node.js, Unform, StyleSheets, Styled-components, ORMs",
+      "url": "https://www.youtube.com/watch?v=YQr5CIRZ4Og"
+    },
+    {
+      "id": 21,
+      "categoriaId": 4,
+      "titulo": "Design UX/UI, Home Office, Dev em Cidade Pequena, Portfólio, Insegurança",
+      "url": "https://www.youtube.com/watch?v=RlK8nu_YErc"
+    },
+    {
+      "id": 22,
+      "categoriaId": 4,
+      "titulo": "Idade na programação, Medo de entrevista, Realocação no Mercado e Trabalho Remoto",
+      "url": "https://www.youtube.com/watch?v=XomJBk4krnI"
+    },
+    {
+      "id": 23,
+      "categoriaId": 4,
+      "titulo": "Mercado do React Native, Flutter e concorrentes",
+      "url": "https://www.youtube.com/watch?v=JYNS7uMx9HI"
+    },
+    {
+      "id": 24,
+      "categoriaId": 5,
+      "titulo": "TypeScript vs JavaScript! Qual aplicar no seu Projeto?",
+      "url": "https://www.youtube.com/watch?v=AIVWz9tDIxM"
+    },
+    {
+      "id": 25,
+      "categoriaId": 5,
+      "titulo": "Como JavaScript FUNCIONA?",
+      "url": "https://www.youtube.com/watch?v=gb7FDfvHlGg"
+    },
+    {
+      "id": 26,
+      "categoriaId": 5,
+      "titulo": "Todo Desenvolvedor PRECISA ASSISTIR esse VÍDEO",
+      "url": "https://www.youtube.com/watch?v=p-y7kIdRa4g"
+    },
+    {
+      "id": 27,
+      "categoriaId": 5,
+      "titulo": "NO-CODE e LOW-CODE - Desenvolvimento SEM código! Devemos nos preocupar?",
+      "url": "https://www.youtube.com/watch?v=gPf6xoCzbuI"
+    },
+    {
+      "id": 28,
+      "categoriaId": 5,
+      "titulo": "Como ORGANIZAR uma Aplicação?",
+      "url": "https://www.youtube.com/watch?v=QDDW2Da21Gc"
+    }
+  ]
+}
