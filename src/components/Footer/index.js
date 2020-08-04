@@ -8,8 +8,11 @@ function Footer() {
         <img src="https://www.alura.com.br/assets/img/alura-logo-white.1570550707.svg" alt="Logo Alura" />
       </a>
       <p>
-        Orgulhosamente criado durante a
-        {' '}
+        Criado por {' '}
+        <a href="https://www.linkedin.com/in/ederlopesgoncalves/">
+          Eder Gonçalves
+        </a>
+        {' '} durante a {' '}
         <a href="https://www.alura.com.br/">
           Imersão React da Alura
         </a>
